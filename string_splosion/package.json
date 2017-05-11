@@ -1,0 +1,25 @@
+{
+  "name": "string_splosion",
+  "version": "1.0.0",
+  "description": "A function that spols strings",
+  "main": "app/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framky007/Andela-Bootcamp-Day3.git"
+  },
+  "author": "Ajaps Franklin",
+  "license": "ISC",
+      "dependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/framky007/Andela-Bootcamp-Day3/issues"
+  },
+  "homepage": "https://github.com/framky007/Andela-Bootcamp-Day3#readme"
+}
