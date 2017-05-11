@@ -1,0 +1,22 @@
+{
+  "name": "reverse_string",
+  "version": "1.0.0",
+  "description": "A function to reverse strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framky007/Andela-Bootcamp-Day3.git"
+  },
+  "author": "Ajaps Franklin",
+  "license": "ISC",
+    "dependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/framky007/Andela-Bootcamp-Day3/issues"
+  },
+  "homepage": "https://github.com/framky007/Andela-Bootcamp-Day3#readme"
+}
